@@ -1,6 +1,6 @@
-# nested-lists
+# Vue.js & Airtable Webpack Simple Starter
 
-> A Vue.js project
+A starter kit including Vue.js CLI webpack-simple starter, Axios and examples on how to connect with Airtable.
 
 ## Build Setup
 
