@@ -1,6 +1,6 @@
 {
-  "name": "nested-lists",
-  "description": "A Vue.js project",
+  "name": "Vue Airtable Webpack Simple Starter",
+  "description": "A Vue.js start project with examples of connecting with Airtable.",
   "version": "1.0.0",
   "author": "patrickodacre <patrick@patrickwho.me>",
   "private": true,
